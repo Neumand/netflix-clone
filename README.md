@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Netflix clone built following Karl Hadwen's fantastic [video tutorial](https://www.youtube.com/watch?v=x_EEwGe-a9o).
+
+The goal was to to sharpen my frontend skills by learning common React patterns and techniques through implementing them myself. These include:
+
+* Compound components
+* Custom hooks
+
+## Technologies
+* React
+* Firebase for authentication
+* Styled Components
 
 ## Available Scripts
 
